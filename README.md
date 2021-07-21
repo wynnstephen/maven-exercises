@@ -1,0 +1,2 @@
+# maven-exercises
+maven-stuff
